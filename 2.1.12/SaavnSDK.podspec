@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "SaavnSDK"
-  s.version          = "2.1.12"
+  s.version          = "2.1.14"
   s.summary          = "JioSaavnSDK for MyJio ios app"
   s.license          = { :type => 'Commercial', :file => 'LICENSE'}
   s.author           = { "Sachin Pant" => "sachin@sensibol.com", "Shwetangi Gurav" => "shwetangi@sensibol.com"}
